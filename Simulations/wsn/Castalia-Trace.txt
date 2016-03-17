@@ -1,0 +1,236 @@
+
+0.203537606789  SN.node[1].Application                   Node [1] sendind data to: 12
+0.203537606789  SN.node[1].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.22755189537   SN.node[0].Application                   Node [0] sendind data to: 7
+0.22755189537   SN.node[0].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[2].Application                   Node[2] put packet in the buffer 1
+0.268485606788  SN.node[2].Application                   Node[2] forward packet from 1
+0.268485606788  SN.node[2].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[3].Application                   Node[3] put packet in the buffer 1
+0.268485606788  SN.node[3].Application                   Node[3] forward packet from 1
+0.268485606788  SN.node[3].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[4].Application                   Node[4] put packet in the buffer 1
+0.268485606788  SN.node[4].Application                   Node[4] forward packet from 1
+0.268485606788  SN.node[4].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[5].Application                   Node[5] put packet in the buffer 1
+0.268485606788  SN.node[5].Application                   Node[5] forward packet from 1
+0.268485606788  SN.node[5].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[6].Application                   Node[6] put packet in the buffer 1
+0.268485606788  SN.node[6].Application                   Node[6] forward packet from 1
+0.268485606788  SN.node[6].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[7].Application                   Node[7] put packet in the buffer 1
+0.268485606788  SN.node[7].Application                   Node[7] forward packet from 1
+0.268485606788  SN.node[7].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[8].Application                   Node[8] put packet in the buffer 1
+0.268485606788  SN.node[8].Application                   Node[8] forward packet from 1
+0.268485606788  SN.node[8].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[9].Application                   Node[9] put packet in the buffer 1
+0.268485606788  SN.node[9].Application                   Node[9] forward packet from 1
+0.268485606788  SN.node[9].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[10].Application                  Node[10] put packet in the buffer 1
+0.268485606788  SN.node[10].Application                  Node[10] forward packet from 1
+0.268485606788  SN.node[10].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[11].Application                  Node[11] put packet in the buffer 1
+0.268485606788  SN.node[11].Application                  Node[11] forward packet from 1
+0.268485606788  SN.node[11].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[12].Application                  Node[12] put packet in the buffer 1
+0.268485606788  SN.node[12].Application                  Node[12] Received packet from node 1
+0.268485606788  SN.node[13].Application                  Node[13] put packet in the buffer 1
+0.268485606788  SN.node[13].Application                  Node[13] forward packet from 1
+0.268485606788  SN.node[13].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[14].Application                  Node[14] put packet in the buffer 1
+0.268485606788  SN.node[14].Application                  Node[14] forward packet from 1
+0.268485606788  SN.node[14].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[15].Application                  Node[15] put packet in the buffer 1
+0.268485606788  SN.node[15].Application                  Node[15] forward packet from 1
+0.268485606788  SN.node[15].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[16].Application                  Node[16] put packet in the buffer 1
+0.268485606788  SN.node[16].Application                  Node[16] forward packet from 1
+0.268485606788  SN.node[16].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[17].Application                  Node[17] put packet in the buffer 1
+0.268485606788  SN.node[17].Application                  Node[17] forward packet from 1
+0.268485606788  SN.node[17].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[18].Application                  Node[18] put packet in the buffer 1
+0.268485606788  SN.node[18].Application                  Node[18] forward packet from 1
+0.268485606788  SN.node[18].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.268485606788  SN.node[19].Application                  Node[19] put packet in the buffer 1
+0.268485606788  SN.node[19].Application                  Node[19] forward packet from 1
+0.268485606788  SN.node[19].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.292499895369  SN.node[12].Application                  Node[12] put packet in the buffer 0
+0.292499895369  SN.node[12].Application                  Node[12] forward packet from 0
+0.292499895369  SN.node[12].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.333433606787  SN.node[1].Application                   Node[1] put packet in the buffer 1
+0.333433606787  SN.node[1].Application                   Node[1] forward packet from 1
+0.333433606787  SN.node[1].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.333433606787  SN.node[1].Application                   Node[1] already has the packet 1
+0.357447895368  SN.node[0].Application                   Node[0] put packet in the buffer 0
+0.357447895368  SN.node[0].Application                   Node[0] forward packet from 0
+0.357447895368  SN.node[0].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.398381606786  SN.node[2].Application                   Node[2] already has the packet 1
+0.398381606786  SN.node[3].Application                   Node[3] already has the packet 1
+0.398381606786  SN.node[4].Application                   Node[4] already has the packet 1
+0.398381606786  SN.node[5].Application                   Node[5] already has the packet 1
+0.398381606786  SN.node[6].Application                   Node[6] already has the packet 1
+0.398381606786  SN.node[7].Application                   Node[7] already has the packet 1
+0.398381606786  SN.node[8].Application                   Node[8] already has the packet 1
+0.398381606786  SN.node[9].Application                   Node[9] already has the packet 1
+0.398381606786  SN.node[10].Application                  Node[10] already has the packet 1
+0.398381606786  SN.node[11].Application                  Node[11] already has the packet 1
+0.398381606786  SN.node[13].Application                  Node[13] already has the packet 1
+0.398381606786  SN.node[14].Application                  Node[14] already has the packet 1
+0.398381606786  SN.node[15].Application                  Node[15] already has the packet 1
+0.398381606786  SN.node[16].Application                  Node[16] already has the packet 1
+0.398381606786  SN.node[17].Application                  Node[17] already has the packet 1
+0.398381606786  SN.node[18].Application                  Node[18] already has the packet 1
+0.398381606786  SN.node[19].Application                  Node[19] already has the packet 1
+0.422395895367  SN.node[2].Application                   Node[2] put packet in the buffer 0
+0.422395895367  SN.node[2].Application                   Node[2] forward packet from 0
+0.422395895367  SN.node[2].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[3].Application                   Node[3] put packet in the buffer 0
+0.422395895367  SN.node[3].Application                   Node[3] forward packet from 0
+0.422395895367  SN.node[3].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[4].Application                   Node[4] put packet in the buffer 0
+0.422395895367  SN.node[4].Application                   Node[4] forward packet from 0
+0.422395895367  SN.node[4].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[5].Application                   Node[5] put packet in the buffer 0
+0.422395895367  SN.node[5].Application                   Node[5] forward packet from 0
+0.422395895367  SN.node[5].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[6].Application                   Node[6] put packet in the buffer 0
+0.422395895367  SN.node[6].Application                   Node[6] forward packet from 0
+0.422395895367  SN.node[6].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[7].Application                   Node[7] put packet in the buffer 0
+0.422395895367  SN.node[7].Application                   Node[7] Received packet from node 0
+0.422395895367  SN.node[8].Application                   Node[8] put packet in the buffer 0
+0.422395895367  SN.node[8].Application                   Node[8] forward packet from 0
+0.422395895367  SN.node[8].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[9].Application                   Node[9] put packet in the buffer 0
+0.422395895367  SN.node[9].Application                   Node[9] forward packet from 0
+0.422395895367  SN.node[9].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[10].Application                  Node[10] put packet in the buffer 0
+0.422395895367  SN.node[10].Application                  Node[10] forward packet from 0
+0.422395895367  SN.node[10].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[11].Application                  Node[11] put packet in the buffer 0
+0.422395895367  SN.node[11].Application                  Node[11] forward packet from 0
+0.422395895367  SN.node[11].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[12].Application                  Node[12] already has the packet 0
+0.422395895367  SN.node[13].Application                  Node[13] put packet in the buffer 0
+0.422395895367  SN.node[13].Application                  Node[13] forward packet from 0
+0.422395895367  SN.node[13].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[14].Application                  Node[14] put packet in the buffer 0
+0.422395895367  SN.node[14].Application                  Node[14] forward packet from 0
+0.422395895367  SN.node[14].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[15].Application                  Node[15] put packet in the buffer 0
+0.422395895367  SN.node[15].Application                  Node[15] forward packet from 0
+0.422395895367  SN.node[15].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[16].Application                  Node[16] put packet in the buffer 0
+0.422395895367  SN.node[16].Application                  Node[16] forward packet from 0
+0.422395895367  SN.node[16].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[17].Application                  Node[17] put packet in the buffer 0
+0.422395895367  SN.node[17].Application                  Node[17] forward packet from 0
+0.422395895367  SN.node[17].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[18].Application                  Node[18] put packet in the buffer 0
+0.422395895367  SN.node[18].Application                  Node[18] forward packet from 0
+0.422395895367  SN.node[18].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.422395895367  SN.node[19].Application                  Node[19] put packet in the buffer 0
+0.422395895367  SN.node[19].Application                  Node[19] forward packet from 0
+0.422395895367  SN.node[19].Application                  Sending [Flood Packet] of size 2005 bytes to communication layer
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] put packet in the buffer 0
+0.487343895366  SN.node[1].Application                   Node[1] forward packet from 0
+0.487343895366  SN.node[1].Application                   Sending [Flood Packet] of size 2005 bytes to communication layer
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.487343895366  SN.node[0].Application                   Node[0] already has the packet 0
+0.487343895366  SN.node[1].Application                   Node[1] already has the packet 0
+0.487343895366  SN.node[7].Application                   Node[7] already has the packet 0
+0.487343895366  SN.node[12].Application                  Node[12] already has the packet 0
+0.552291895365  SN.node[0].Application                   Node[0] already has the packet 0
+0.552291895365  SN.node[2].Application                   Node[2] already has the packet 0
+0.552291895365  SN.node[3].Application                   Node[3] already has the packet 0
+0.552291895365  SN.node[4].Application                   Node[4] already has the packet 0
+0.552291895365  SN.node[5].Application                   Node[5] already has the packet 0
+0.552291895365  SN.node[6].Application                   Node[6] already has the packet 0
+0.552291895365  SN.node[7].Application                   Node[7] already has the packet 0
+0.552291895365  SN.node[8].Application                   Node[8] already has the packet 0
+0.552291895365  SN.node[9].Application                   Node[9] already has the packet 0
+0.552291895365  SN.node[10].Application                  Node[10] already has the packet 0
+0.552291895365  SN.node[11].Application                  Node[11] already has the packet 0
+0.552291895365  SN.node[12].Application                  Node[12] already has the packet 0
+0.552291895365  SN.node[13].Application                  Node[13] already has the packet 0
+0.552291895365  SN.node[14].Application                  Node[14] already has the packet 0
+0.552291895365  SN.node[15].Application                  Node[15] already has the packet 0
+0.552291895365  SN.node[16].Application                  Node[16] already has the packet 0
+0.552291895365  SN.node[17].Application                  Node[17] already has the packet 0
+0.552291895365  SN.node[18].Application                  Node[18] already has the packet 0
+0.552291895365  SN.node[19].Application                  Node[19] already has the packet 0
